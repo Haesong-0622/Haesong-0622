@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Hello+YEONSONG&animation=blink&fontSize=80&fontAlignY=70&fontColor=f2f2f2&)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesong-0622&count_bg=%237F7F7F&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Welcome+&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesong-0622&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Haesong-0622/Haesong-0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
