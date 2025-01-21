@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=HELLOYEONSONG&animation=fadeIn&type=wave&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Hello+YEONSONG&animation=blink&fontSize=80&fontAlignY=70&fontColor=f2f2f2&)
 
 <!--
 **Haesong-0622/Haesong-0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
