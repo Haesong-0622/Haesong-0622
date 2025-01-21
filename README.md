@@ -1,4 +1,4 @@
-## Hi my name is LEE YEONSONG 👋
+## Hi my name is YEONSONG 👋
 
 ![header](https://capsule-render.vercel.app/api?text=YEONSONG&animation=fadeIn&type=wave&color=auto&height=300&section=header)
 
