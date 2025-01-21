@@ -1,6 +1,4 @@
-## Hi my name is YEONSONG 👋
-
-![header](https://capsule-render.vercel.app/api?text=YEONSONG&animation=fadeIn&type=wave&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?text=HELLOYEONSONG&animation=fadeIn&type=wave&color=auto&height=300&section=header)
 
 <!--
 **Haesong-0622/Haesong-0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
